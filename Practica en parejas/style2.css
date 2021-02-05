@@ -1,0 +1,23 @@
+body{
+    background-color: orange;
+}
+header{
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+main{
+    background-color: turquoise;
+}
+ul.listados li{
+    display: inline;
+  border: white 2px solid;
+  border-color: black;
+  margin: 5px;
+  padding: 0.2px;
+  color: blue; 
+  }
+  ul.listados li:hover{
+      background-color: yellow;
+  }

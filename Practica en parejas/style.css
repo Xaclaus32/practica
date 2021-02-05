@@ -1,0 +1,73 @@
+body{
+    background-color: orange;
+}
+header{
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+main{
+    background-color: turquoise;
+}
+ul.listados li{
+    display: inline;
+  border: white 2px solid;
+  border-color: black;
+  margin: 5px;
+  padding: 0.2px;
+  color: blue; 
+  }
+  ul.listados li:hover{
+      background-color: yellow;
+  }
+  div.blanco{
+      background-color: white;
+  }
+  div.azul{
+      background-color: blue;
+  }
+  img.uno{
+    width: 150px;
+    height:150px;
+    position: relative;
+    top: -25px;
+    float: left;
+     
+}
+p.uno{
+    color: blue;
+    position: relative;
+    top: -10px;
+   
+}
+div.azulsalto{
+    background-color: blue;
+    position: relative;
+    top: -26px;
+}
+div.rojo{
+    background-color: red;
+}
+p.rojo{
+    color: red;
+    position: relative;
+    top: -10px;
+}
+img.dos{
+    position: relative;
+    float: right;
+    width: 100px;
+    height:100px;
+    top: -25px;
+}
+footer{
+    background-color: salmon;
+    position: relative;
+    top: -25px;
+
+}
+p.final{
+    text-align: center;
+
+}
